@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Logotipo SueldoNeto">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b5fa5"/>
+      <stop offset="1" stop-color="#00b386"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="60" height="60" rx="14" fill="url(#g)"/>
+  <text x="32" y="43" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="34" font-weight="bold" fill="#ffffff">€</text>
+  <rect x="14" y="50" width="10" height="4" rx="2" fill="#f5b301"/>
+  <rect x="27" y="50" width="10" height="4" rx="2" fill="#ffffff" opacity="0.85"/>
+  <rect x="40" y="50" width="10" height="4" rx="2" fill="#ffffff" opacity="0.55"/>
+</svg>
